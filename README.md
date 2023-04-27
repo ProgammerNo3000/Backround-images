@@ -2,4 +2,4 @@
 AZAV
 
 this practice was about blending backround images to cover each image from the top of page to the last , using
-backround-repeat, backround postion, backround attachment 
+backround-repeat/ no repeat, backround postion, backround attachment 
